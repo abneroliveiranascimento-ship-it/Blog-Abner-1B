@@ -1,3 +1,14 @@
 body {
+    background-color: rgb(240, 240, 240);
+}
+.cabecalho{
+    background-color: black;
+    color: white;
+    text-align: right;
+    max-width: 10000436px;
+    
+}
+.conteudo-principal{
     background-color: whitesmoke;
+    max-width: 99999999px;
 }
