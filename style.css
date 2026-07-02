@@ -12,3 +12,17 @@ body {
     background-color: whitesmoke;
     max-width: 99999999px;
 }
+.imagem-principal{
+    width: 200px;
+    height: 200px;
+}
+.cabecalho-paragrafo{
+    font-weight: bold;
+}
+.conteudo-autor{
+    font-weight: bold;
+    text-decoration: italic;
+}
+.conteudo-principal-texto{
+    font-weight: bold;
+}
