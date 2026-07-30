@@ -13,8 +13,8 @@ body {
     max-width: 99999999px;
 }
 .imagem-principal{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 .cabecalho-paragrafo{
     font-weight: bold;
@@ -22,6 +22,7 @@ body {
 .conteudo-autor{
     font-weight: bold;
     text-decoration: italic;
+    color: gray;
 }
 .conteudo-principal-texto{
     font-weight: bold;
