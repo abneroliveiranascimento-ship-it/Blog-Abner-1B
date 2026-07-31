@@ -1,5 +1,5 @@
 const botoes = document.querySelectorAll("button");
-botoes.forEach(funcion(botao) {
+botoes.forEach(function(botao){
     let curtiu = false;
     botao.addEventListener("click", botaoClicado);
 
