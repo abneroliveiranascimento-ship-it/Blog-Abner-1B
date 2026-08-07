@@ -10,7 +10,11 @@ body {
 }
 .conteudo-principal{
     background-color: rgb(0, 0, 50);
-    max-width: 99999999px;
+    max-width: 800px;
+    margin: 0 auto ;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
 }
 .imagem-principal{
     width: 100px;
@@ -30,4 +34,12 @@ body {
 }
 .conteudo-principal-titulo{
     color: white;
+}
+article{
+
+    border: 1px black;
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
+    flex: 1 1 25%;
 }
